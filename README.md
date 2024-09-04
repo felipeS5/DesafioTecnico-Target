@@ -2,7 +2,7 @@
   
 2°) [Código](https://github.com/felipeS5/DesafioTecnico-Target/blob/main/src/main/java/org/fsm/Questao2.java)  
   
-3°) Resposta: 77. [Código](https://github.com/felipeS5/DesafioTecnico-Target/blob/main/src/main/java/org/fsm/Questao2.java)  
+3°) Resposta: 77. [Código](https://github.com/felipeS5/DesafioTecnico-Target/blob/main/src/main/java/org/fsm/Questao3.java)  
   
 4°) 9, 128, 49, 100, 13, 20.  
   
